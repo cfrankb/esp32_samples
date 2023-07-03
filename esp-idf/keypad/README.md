@@ -1,5 +1,7 @@
 ## Keypad 4x4
 
+![alt text](images/20230703_022902.jpg)
+
 COL1 in the right.
 The first and last pins are not used.
 
@@ -17,4 +19,5 @@ The first and last pins are not used.
 ## Further reading
 
 https://www.youtube.com/watch?v=EpvVYyKwfjs
+
 https://www.youtube.com/watch?v=6tUmhYbM2FU
